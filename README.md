@@ -6,6 +6,8 @@
 <p align="center">
   <h3 align="center"><a href="https://github.com/mahmudhussaininfo/hack-programmingHero-dom">Hack Programming Hero - DOM Project</a></h3>
 
+[![View on Youtube](http://img.youtube.com/vi/_WuDDnZMRiE/0.jpg)](http://www.youtube.com/watch?v=_WuDDnZMRiE)
+
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
